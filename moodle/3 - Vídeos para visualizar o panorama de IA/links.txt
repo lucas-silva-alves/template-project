@@ -1,0 +1,5 @@
+Alguns vídeos serão colocados incrementalmente aqui (alguns podem ser mais antigos, mas mostram algo interessante sobre IA+HW). Alguns estão colocados para dar ideias para projetos de disciplina.
+
+NVidia, AI, ChatGPT (2023): https://youtu.be/d3L2uPuxOxU
+
+Sarcastic robot powered by GPT-4 (2023): https://www.youtube.com/watch?v=PgT8tPChbqc

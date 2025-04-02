@@ -1,0 +1,3 @@
+Conway’s Game of Life: https://playgameoflife.com/
+
+Ferramenta para desenho de redes neurais: https://alexlenail.me/NN-SVG/

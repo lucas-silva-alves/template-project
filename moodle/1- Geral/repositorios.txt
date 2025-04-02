@@ -1,0 +1,29 @@
+Alguns repositórios com bases de dados para Machine Learning:
+
+• Zenodo - https://zenodo.org/
+
+• PhysioNet - https://www.physionet.org/about/database/
+
+• OpenNeuro - https://openneuro.org/
+
+• Dryad - https://datadryad.org/
+
+• Texas Data Repository - https://dataverse.tdl.org/
+
+• Harvard Dataverse - https://dataverse.harvard.edu/
+
+• UCLA Dataverse - https://dataverse.ucla.edu/
+
+• UCI Machine Learning Repository - http://mlr.cs.umass.edu/ml/
+
+• Google - bases de dados do Google Research - http://research.google/tools/datasets/
+
+• Google - Busca de bases de dados - https://datasetsearch.research.google.com
+
+• The Big Bad NLP Database - https://quantumstat.com/dataset/dataset.html
+
+• Datasets do Kaggle - https://www.kaggle.com/datasets
+
+• Pathmind: links para diversos datasets - https://pathmind.com/wiki/open-datasets
+
+• Visual Data - datasets para visão computacional - https://www.visualdata.io

@@ -1,0 +1,13 @@
+Exercício - KNN
+
+A tarefa é:
+- encontre uma base de dados simples (<10 atributos) e com mais de 100 amostras para aprendizado supervisionado que seja 
+suficientemente próxima de sua área de interesse. 
+
+     - Obs.: a base de dados deve ter artigo científico associado a ela (pelo menos algum trabalho deve ter utilizado ela);
+
+- divida apropriadamente os conjuntos em treinto, validação e teste.
+
+- analise os resultados do KNN para esta base com K variável (conferindo o resultado para o conjunto validação).
+
+- após escolher o K ideal no teste anterior, avalie o resultado do modelo para conjunto teste.

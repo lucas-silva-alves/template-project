@@ -1,0 +1,13 @@
+Exercício - Tabela de comparação entre trabalhos
+
+A tarefa é:
+- buscar 3 ou mais trabalhos relacionados a sua área de interesse e que tenha implementação em hardware (CPU, GPU, ASIC, ...). 
+Os trabalhos devem ser preferencialmente (não obrigatoriamente) de journal (revista) e publicados nos últimos 5 anos;
+
+- fazer tabela com as características principais, dando foco às relacionadas a uso de recursos (área, número de elementos lógicos, 
+memória, ...) e desempenho (latência, taxa de acerto, frequência, número de operações, ...). 
+Não há rigidez aqui, busque as métricas que estiverem disponíveis, mas foque em artigos que tendam a expor as métricas de 
+forma mais clara.
+
+- ao colocar a tabela, coloque também as refererências.
+
